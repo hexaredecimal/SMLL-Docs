@@ -29,4 +29,6 @@ Contents
 .. toctree::
 
    learn
-   api
+   contributing
+
+
