@@ -1,5 +1,0 @@
-Contributing
-=============
-
-.. note::
-   Coming soon
