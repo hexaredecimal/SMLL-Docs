@@ -10,6 +10,7 @@
 * [Types](basics/types.md)
 * [Variables](basics/variables.md)
 * [Operators](basics/operators.md)
+* [Functions](basics/functions.md)
 
 ## Compiler internals
 
