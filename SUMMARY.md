@@ -11,6 +11,8 @@
 * [Variables](basics/variables.md)
 * [Operators](basics/operators.md)
 * [Functions](basics/functions.md)
+* [Conditionals](basics/conditionals.md)
+* [Match](basics/match.md)
 
 ## Compiler internals
 
