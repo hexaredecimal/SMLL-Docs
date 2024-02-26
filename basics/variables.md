@@ -39,15 +39,18 @@ The let keyword binds a list of names to their corresponding expressions and fin
 
 #### From
 
+{% code lineNumbers="true" %}
 ```sml
 val one = 1
 val two = 2
 val three = 3
 val six = one + two + three
 ```
+{% endcode %}
 
 #### To
 
+{% code lineNumbers="true" %}
 ```sml
 val six = 
     let
@@ -57,3 +60,4 @@ val six =
     in one + two + three
     
 ```
+{% endcode %}

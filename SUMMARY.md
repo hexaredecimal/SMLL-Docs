@@ -13,6 +13,7 @@
 * [Functions](basics/functions.md)
 * [Conditionals](basics/conditionals.md)
 * [Match](basics/match.md)
+* [Arrays](basics/arrays.md)
 
 ## Compiler internals
 

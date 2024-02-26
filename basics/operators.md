@@ -30,9 +30,11 @@ Logic operators are also know as boolean operators, because they generate values
 
 SMLL has a binary operator for checking if a value is of a certain type. The operator takes the following form.&#x20;
 
+{% code lineNumbers="true" %}
 ```rust
 10?Int
 ```
+{% endcode %}
 
 
 
