@@ -14,6 +14,7 @@
 * [Conditionals](basics/conditionals.md)
 * [Match](basics/match.md)
 * [Arrays](basics/arrays.md)
+* [Structs](basics/structs.md)
 
 ## Compiler internals
 
