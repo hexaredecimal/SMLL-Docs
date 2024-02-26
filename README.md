@@ -6,6 +6,8 @@ description: >-
 
 # Small ML language
 
+<figure><img src=".gitbook/assets/_bfbc2acb-e0df-470f-8cb4-ff6e3855fb45-removebg-preview.png" alt=""><figcaption><p><strong>Larry</strong>, the SMLL Mascot</p></figcaption></figure>
+
 ### Welcome
 
 Welcome to the official documentation for the SMLL programming language. I hope you look forward to exploring different ways of writing programs for the JVM. I assume you are familiar with the JAVA programming language. If you are a complete beginner this reading is still fine for you, but you are most likely not going to appreciate the use cases of the concepts presented in this document. Lets get started with the SMLL programming language and write JVM applications using an easy and maintainable programming language.&#x20;
