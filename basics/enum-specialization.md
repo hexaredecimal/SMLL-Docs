@@ -22,7 +22,6 @@ fun dprk(prez: Presidents.Mandela): String => prez + " Was the president of Nort
 This is how to use them.&#x20;
 
 ```sml
-
 fun main(): Unit => {
     val myprez = Presidents.Mandela
     println(zar(myprez)) (* compiles successfully *)
