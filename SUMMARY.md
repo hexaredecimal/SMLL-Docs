@@ -15,6 +15,8 @@
 * [Match](basics/match.md)
 * [Arrays](basics/arrays.md)
 * [Structs](basics/structs.md)
+* [Enums](basics/enums.md)
+* [Enum Specialization](basics/enum-specialization.md)
 
 ## Compiler internals
 
