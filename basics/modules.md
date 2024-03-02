@@ -14,15 +14,14 @@ using System::Io
 
 Some where there is a modules path which the standard library is located. Inside that modules directory there is a directory named System with the Io file.&#x20;
 
-*   \<Modules>
-
-    * System
-      * Io.sml
-      * ...
-    * System.sml
-    * ..
-
-
+```bash
+<ROOTDIR> 
+    └─ System 
+        └─── Io.sml
+        └─── Result.sml
+        └─── Io
+             └─── StdIo.sml
+```
 
 Importing modules simply works like this.&#x20;
 
