@@ -8,6 +8,7 @@
 
 * [Literals](basics/literals.md)
 * [Types](basics/types.md)
+* [Type casting](basics/type-casting.md)
 * [Variables](basics/variables.md)
 * [Operators](basics/operators.md)
 * [Functions](basics/functions.md)

@@ -1,10 +1,14 @@
 ---
 description: >-
   SMLL is a small, experimental, general purpose programming language created
-  for exploring alternative ways of writing applications on the JVM
+  for exploring alternative ways of writing applications on the JVM.
 ---
 
 # Small ML language
+
+{% hint style="danger" %}
+This document is not finished and so, it way not be accurate. This is due to the rapid development of SMLL and the constant refinements that are being done.&#x20;
+{% endhint %}
 
 <figure><img src=".gitbook/assets/_bfbc2acb-e0df-470f-8cb4-ff6e3855fb45-removebg-preview.png" alt=""><figcaption><p><strong>Larry</strong>, the SMLL Mascot</p></figcaption></figure>
 
