@@ -81,7 +81,7 @@ or pass an extra command line argument like --run to automatically invoke the ja
 
 {% code lineNumbers="true" %}
 ```csharp
-/target/debug/smll --run hello.sml
+./target/debug/smll --run hello.sml
 ```
 {% endcode %}
 
