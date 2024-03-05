@@ -18,6 +18,7 @@
 * [Structs](basics/structs.md)
 * [Enums](basics/enums.md)
 * [Enum Specialization](basics/enum-specialization.md)
+* [Object Destructuring](basics/object-destructuring.md)
 * [Modules](basics/modules.md)
 
 ## Compiler internals
