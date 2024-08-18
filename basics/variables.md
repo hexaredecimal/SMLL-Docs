@@ -13,7 +13,7 @@ In SMLL variable are immutable on the language level and can only be modified by
 ### Val
 
 {% code lineNumbers="true" %}
-```ocaml
+```kotlin
 val number = 10
 val name = "Jake"
 val answer = number * 2
@@ -40,7 +40,7 @@ The let keyword binds a list of names to their corresponding expressions and fin
 #### From
 
 {% code lineNumbers="true" %}
-```sml
+```kotlin
 val one = 1
 val two = 2
 val three = 3
@@ -51,7 +51,7 @@ val six = one + two + three
 #### To
 
 {% code lineNumbers="true" %}
-```sml
+```kotlin
 val six = 
     let
         one = 1
