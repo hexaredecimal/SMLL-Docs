@@ -15,11 +15,9 @@ enum Presidents = Mandela | Obama | Putin | JunPing
 We can write the specialization functions like this.&#x20;
 
 {% code lineNumbers="true" %}
-```kotlin
-fun zar(prez: Presidents.Mandela): String => prez + " Was the president of South Africa"
-fun usa(prez: Presidents.Mandela): String => prez + " Was the president of America"
-fun rus(prez: Presidents.Mandela): String => prez + " Was the president of Russia"
-fun dprk(prez: Presidents.Mandela): String => prez + " Was the president of North Korea"
+```rust
+fn zar(prez: Presidents.Mandela): String => prez + " Was the president of South Africa"
+
 ```
 {% endcode %}
 
@@ -27,7 +25,7 @@ This is how to use them.&#x20;
 
 {% code lineNumbers="true" %}
 ```sml
-fun main(): Unit => {
+fn main(): Unit => {
     val myprez = Presidents.Mandela
     println(zar(myprez)) (* compiles successfully *)
     println(rus(myprez)) (* fails *)

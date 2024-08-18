@@ -7,8 +7,8 @@ description: Modular, like the 80s
 Modules are important because they allow us to store and structure code as folders in the filesystem. They are mostly useful fo sparating different implementations of data and functions. SMLL moduls are inspired by Java Packages. They are just nested folders.&#x20;
 
 {% code lineNumbers="true" %}
-```csharp
-using System::Io
+```kotlin
+import System::Io
 ```
 {% endcode %}
 
@@ -26,10 +26,10 @@ Some where there is a modules path which the standard library is located. Inside
 Importing modules simply works like this.&#x20;
 
 {% code lineNumbers="true" %}
-```csharp
-using System::Io::Stdio
-using System::Io
-using System::Result
+```kotlin
+import System::Io::Stdio
+import System::Io
+import System::Result
 ```
 {% endcode %}
 
