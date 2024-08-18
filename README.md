@@ -22,5 +22,5 @@ SMLL is not meant to replace the official programming languages for the JVM, esp
 
 ### Project
 
-The SMLL project is hosted on [github](https://github.com/hexaredecimal/ML). Contributions are allowed given that they add or fix a feature.&#x20;
+The SMLL project is hosted on [github](https://github.com/hexaredecimal/ML). Contributions are allowed given that they add or fix a bug.&#x20;
 
